@@ -1,0 +1,24 @@
+/*
+ *= require bootstrap/bootstrap.min
+ *= require adminlte/AdminLTE.min
+ *= require adminlte/skins/skin-blue.min
+ *= require adminlte/plugins/bootstrap-slider/slider
+ *= require adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min
+ *= require adminlte/plugins/colorpicker/bootstrap-colorpicker.min
+ *= require adminlte/plugins/datatables/dataTables.bootstrap
+ *= require adminlte/plugins/datatables/jquery.dataTables.min
+ *= require adminlte/plugins/datatables/jquery.dataTables_themeroller.css
+ *= require adminlte/plugins/datepicker/datepicker3
+ *= require adminlte/plugins/daterangepicker/daterangepicker-bs3
+ * require adminlte/plugins/fullcalendar/fullcalendar.min
+ *= require adminlte/plugins/iCheck/all
+ *= require adminlte/plugins/ionslider/ion.rangeSlider
+ *= require adminlte/plugins/ionslider/ion.rangeSlider.skinFlat
+ *= require adminlte/plugins/ionslider/ion.rangeSlider.skinNice
+ * require adminlte/plugins/jvectormap/jquery-jvectormap-1.2.2
+ *= require adminlte/plugins/morris/morris
+ *= require adminlte/plugins/pace/pace.min
+ *= require adminlte/plugins/select2/select2.min
+ *= require adminlte/plugins/timepicker/bootstrap-timepicker.min
+ *
+ */
