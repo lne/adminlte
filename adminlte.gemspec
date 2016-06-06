@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "README.rdoc"]
 
   s.require_paths = ['lib']
-  s.add_dependency "ionicons"
+  s.add_dependency "ionicons-rails"
   s.add_dependency "font-awesome"
 end
