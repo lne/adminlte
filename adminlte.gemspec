@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
 
   s.require_paths = ['lib']
   s.add_dependency "ionicons-rails"
-  s.add_dependency "font-awesome"
+  s.add_dependency "font-awesome-rails"
 end
