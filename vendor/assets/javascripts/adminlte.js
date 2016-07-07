@@ -1,4 +1,4 @@
-//= require bootstrap/bootstrap.min
+//= require bootstrap/bootstrap
 //= require adminlte/app.min
 //= require adminlte/plugins/bootstrap-slider/bootstrap-slider
 //= require adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min
