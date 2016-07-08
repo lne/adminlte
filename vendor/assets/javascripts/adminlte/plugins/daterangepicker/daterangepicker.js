@@ -69,6 +69,7 @@
             applyLabel: 'Apply',
             cancelLabel: 'Cancel',
             weekLabel: 'W',
+            yearLabel: '',
             customRangeLabel: 'Custom Range',
             daysOfWeek: moment.weekdaysMin(),
             monthNames: moment.monthsShort(),
@@ -143,6 +144,9 @@
 
             if (typeof options.locale.daysOfWeek === 'object')
                 this.locale.daysOfWeek = options.locale.daysOfWeek.slice();
+
+            if (typeof options.locale.yearLabel === 'string')
+                this.locale.yearLabel = options.locale.yearLabel;
 
             if (typeof options.locale.monthNames === 'object')
               this.locale.monthNames = options.locale.monthNames.slice();
@@ -701,7 +705,7 @@
                 html += '<th></th>';
             }
 
-            var dateHtml = this.locale.monthNames[calendar[1][1].month()] + calendar[1][1].format(" YYYY");
+            var dateHtml = calendar[1][1].format("YYYY") + this.locale.yearLabel + " " + this.locale.monthNames[calendar[1][1].month()];
 
             if (this.showDropdowns) {
                 var currentMonth = calendar[1][1].month();
