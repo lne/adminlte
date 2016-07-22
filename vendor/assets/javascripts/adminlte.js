@@ -36,7 +36,7 @@
 // require adminlte/plugins/fullcalendar/fullcalendar.min
 //
 // iCheck: Highly customizable checkboxes and radio buttons for jQuery and Zepto.
-// require adminlte/plugins/iCheck/icheck.min
+//= require adminlte/plugins/iCheck/icheck.min
 //
 // jquery.inputmask: A jQuery Plugin to make masks on form fields and html elements.
 // require_tree ./adminlte/plugins/input-mask/.
