@@ -45,7 +45,7 @@
 // require adminlte/plugins/ionslider/ion.rangeSlider.min
 //
 // jQuery UI
-//= require adminlte/plugins/jQueryUI/jquery-ui.min
+// require adminlte/plugins/jQueryUI/jquery-ui.min
 //
 // jVector:Create a world map.
 // require_tree ./adminlte/plugins/jvectormap/.
