@@ -1,17 +1,20 @@
 //= require bootstrap/bootstrap
 //= require adminlte/app.min
-//= require adminlte/plugins/bootstrap-slider/bootstrap-slider
-//= require adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min
+//= require adminlte/plugins/daterangepicker/moment.min
+//= require adminlte/plugins/daterangepicker/daterangepicker
+//
+// iCheck: Highly customizable checkboxes and radio buttons for jQuery and Zepto.
+//= require adminlte/plugins/iCheck/icheck.min
+//
 // ChartJS: 
 // require adminlte/plugins/chartjs/Chart.min
 // require adminlte/plugins/colorpicker/bootstrap-colorpicker.min
-//= require adminlte/plugins/datatables/jquery.dataTables.min
 // require adminlte/plugins/datatables/dataTables.bootstrap.min
-//= require adminlte/plugins/datepicker/bootstrap-datepicker
-//= require adminlte/plugins/daterangepicker/moment.min
-//= require adminlte/plugins/daterangepicker/daterangepicker
-//= require adminlte/plugins/fastclick/fastclick.min
-//= require adminlte/plugins/fastclick/fastclick.min
+// require adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min
+// require adminlte/plugins/fastclick/fastclick.min
+// require adminlte/plugins/datatables/jquery.dataTables.min
+// require adminlte/plugins/bootstrap-slider/bootstrap-slider
+// require adminlte/plugins/datepicker/bootstrap-datepicker
 //
 // Flot: A pure JavaScript plotting library for jQuery.
 // require adminlte/plugins/flot/excanvas.min
@@ -34,9 +37,6 @@
 //
 // FullCalendar: A drag-n-drop jQuery plugin for displaying events on a full-sized calendar. 
 // require adminlte/plugins/fullcalendar/fullcalendar.min
-//
-// iCheck: Highly customizable checkboxes and radio buttons for jQuery and Zepto.
-//= require adminlte/plugins/iCheck/icheck.min
 //
 // jquery.inputmask: A jQuery Plugin to make masks on form fields and html elements.
 // require_tree ./adminlte/plugins/input-mask/.
