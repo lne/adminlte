@@ -3,7 +3,7 @@
  *= require adminlte/AdminLTE.min
  *= require adminlte/skins/skin-blue.min
  *= require adminlte/plugins/iCheck/square/blue
- * require adminlte/plugins/daterangepicker/daterangepicker-bs3
+ *= require adminlte/plugins/daterangepicker/daterangepicker-bs3
  * require adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min
  * require adminlte/plugins/datatables/dataTables.bootstrap
  * require adminlte/plugins/bootstrap-slider/slider
